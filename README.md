@@ -11,13 +11,10 @@ Sou um iniciante apaixonado por programação, explorando o vasto mundo do desen
 * Aprendizado contínuo
 
 ## Meus projetos
-**Projeto 1 - Calculadora:** Uma calculadora simples desenvolvida em Python. [[Link para o repositório](link-do-repositorio-calculadora)]
+**Projeto 1 - Calculadora:** Uma calculadora simples desenvolvida em Python. [[Link para o repositório]
 
 ## Contribuições
 Estou sempre procurando oportunidades para contribuir com projetos de código aberto. Se você tiver alguma sugestão ou oportunidade, entre em contato comigo!
-
-## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens e ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
